@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="format-detection" content="telephone=no">
+<title>[TSoG] Project Central</title>
+
+
+<!--##custom-font-resource##-->
+<!--[if gte mso 16]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<style>
+html,body,table,tbody,tr,td,div,p,ul,ol,li,h1,h2,h3,h4,h5,h6 {
+margin: 0;
+padding: 0;
+}
+
+body {
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+}
+
+table {
+border-spacing: 0;
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt;
+}
+
+table td {
+border-collapse: collapse;
+}
+
+h1,h2,h3,h4,h5,h6 {
+font-family: Arial;
+}
+
+.ExternalClass {
+width: 100%;
+}
+
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+line-height: 100%;
+}
+
+/* Outermost container in Outlook.com */
+.ReadMsgBody {
+width: 100%;
+}
+
+img {
+-ms-interpolation-mode: bicubic;
+}
+
+</style>
+
+<style>
+a[x-apple-data-detectors=true]{
+color: inherit !important;
+text-decoration: inherit !important;
+}
+
+u + #body a {
+color: inherit;
+text-decoration: inherit !important;
+font-size: inherit;
+font-family: inherit;
+font-weight: inherit;
+line-height: inherit;
+}
+
+a, a:link, .no-detect-local a, .appleLinks a {
+color: inherit !important;
+text-decoration: inherit;
+}
+
+</style>
+
+<style>
+
+.width600 {
+width: 600px;
+max-width: 100%;
+}
+
+@media all and (max-width: 599px) {
+.width600 {
+width: 100% !important;
+}
+}
+
+@media screen and (min-width: 600px) {
+.hide-on-desktop {
+display: none;
+}
+}
+
+@media all and (max-width: 599px),
+only screen and (max-device-width: 599px) {
+.main-container {
+width: 100% !important;
+}
+
+.col {
+width: 100%;
+}
+
+.fluid-on-mobile { 
+width: 100% !important;
+height: auto !important; 
+text-align:center;
+}
+
+.fluid-on-mobile img {
+width: 100% !important;
+}
+
+.hide-on-mobile { 
+display:none !important; 
+width:0px !important;
+height:0px !important; 
+overflow:hidden; 
+}
+}
+
+</style>
+
+<!--[if gte mso 9]>
+<style>
+
+.col {
+width: 100% !important;
+}
+
+.width600 {
+width: 600px;
+}
+
+.width600 {
+width: 600px;
+height: auto;
+}
+.width97 {
+width: 97px;
+height: auto;
+}
+.width103 {
+width: 103px;
+height: auto;
+}
+.width100 {
+width: 100px;
+height: auto;
+}
+.width101 {
+width: 101px;
+height: auto;
+}
+.width107 {
+width: 107px;
+height: auto;
+}
+.width61 {
+width: 61px;
+height: auto;
+}
+
+.hide-on-desktop {
+display: none;
+}
+
+.hide-on-desktop table {
+mso-hide: all;
+}
+
+.nounderline {text-decoration: none !important;}
+
+.mso-font-fix-arial { font-family: Arial, sans-serif;}
+.mso-font-fix-georgia { font-family: Georgia, sans-serif;}
+.mso-font-fix-tahoma { font-family: Tahoma, sans-serif;}
+.mso-font-fix-times_new_roman { font-family: 'Times New Roman', sans-serif;}
+.mso-font-fix-trebuchet_ms { font-family: 'Trebuchet MS', sans-serif;}
+.mso-font-fix-verdana { font-family: Verdana, sans-serif;}
+
+</style>
+<![endif]-->
+</head>
+<body id="body" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="font-family:Arial, sans-serif; font-size:0px;margin:0;padding:0;background-color:#ffffff;">
+<span style="display:none;font-size:0px;line-height:0px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Updating you on all events, activities, and current project opportunities.</span>
+<style>
+@media screen and (min-width: 600px) {
+.hide-on-desktop {
+display: none;
+}
+}
+
+@media all and (max-width: 599px) {
+.hide-on-mobile { 
+display:none !important; 
+width:0px !important;
+height:0px !important; 
+overflow:hidden; 
+}
+}
+</style>
+<div style="background-color:#ffffff">
+
+<table height="100%" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#ffffff">
+<tr>
+<td align="center" width="100%">
+<!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+<table class="width600 main-container" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="600" style="max-width:100%" class="fluid-on-mobile img-wrap">
+<tr>
+
+<td valign="top" align="center"><a href="https://www.tsogiants.org/wiki/Welcome" class="imglink" target="_blank">
+<img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1593665583631_revised_tsog_header_v2.png" width="600" height="291" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width600" />
+</a>
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:17px;color:#131313;line-height:20px;text-align:left"><p style="padding: 0; margin: 0;"><span style="font-size:14px;">Hi {!Contact.FirstName},&nbsp;</span></p>
+
+<p style="padding: 0; margin: 0;">&nbsp;</p>
+
+<p style="padding: 0; margin: 0;"><span style="font-size:14px;">Two projects are almost ready for launch, and we are confirming the final list of students for those&nbsp;teams! Prolific and Microblaster-UV have a few team openings before they launch officially. All interested&nbsp;students (13-18) should click&nbsp;below to join. Each&nbsp;Technical Mentor&nbsp;(TM) has&nbsp;an organized path&nbsp;forward to help each team member learn as they go along, so no prior&nbsp;knowledge is necessary.&nbsp;</span></p>
+
+<p style="padding: 0; margin: 0;">&nbsp;</p>
+
+<p style="padding: 0; margin: 0;"><span style="font-size:14px;">Recent news sources are reporting that many school districts are remaining closed and conducting classes virtually at the start of the school&nbsp;year. If you feel that we should reach out to your school or PTA group&nbsp;about how we can help support&nbsp;science and engineering education, please let us&nbsp;know in Discord or by starting a chat on the homepage. (That goes directly to Lauren Foland.)</span></p>
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#ffffff">
+<tr>
+<td align="center" width="100%">
+<!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+<table class="width600 main-container" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:18px;color:#131313;line-height:25px;text-align:left"></div>
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td style="padding:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-top:2px solid #6d4191">
+<tr>
+
+<td>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:108.96969696969707px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="18.161616161616177%" class="col" style="background-color:#ffffff" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="103" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="103" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center" style="padding:3px"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1594242483043_Prolific.png" width="97" height="97" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width97" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center">
+<!--[if !mso]><!-- -->
+<a href="https://www.cognitoforms.com/TheShouldersOfGiantsInc/Prolific" target="_blank" style="display:inline-block; text-decoration:none;" >
+<span>
+
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#491276" style="border-radius:30px;border-collapse:separate !important;background-color:#491276">
+<tr>
+
+<td align="center" style="padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">
+<span style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:17px;mso-line-height:exactly;line-height:19px;mso-text-raise:1px;">
+<font style="color:#ffffff;" class="button">
+<span>Join</span>
+</font>
+</span>
+</td>
+</tr>
+</table>
+
+</span>
+</a>
+<!--<![endif]-->
+<div style="display:none; mso-hide: none;">
+
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#491276" style="border-radius:30px;border-collapse:separate !important;background-color:#491276">
+<tr>
+
+<td align="center" style="padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">
+<a href="https://www.cognitoforms.com/TheShouldersOfGiantsInc/Prolific" target="_blank" style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:17px;mso-line-height:exactly;line-height:19px;mso-text-raise:1px;text-decoration:none;text-align:center;">
+
+<span style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:17px;mso-line-height:exactly;line-height:19px;mso-text-raise:1px;">
+<font style="color:#ffffff;" class="button">
+<span>Join</span>
+</font>
+</span>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:491.0303030303029px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="81.83838383838382%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:9px;padding-right:12px;padding-bottom:16px;padding-left:12px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:16px;color:#000000;line-height:18px;text-align:left"><h2 style="font-family:Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 17px; color: #491276; font-weight: normal; line-height: 18px; mso-line-height: exactly; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><span style="font-size:14px;"><strong>Project:</strong> Prolific</span></span></h2><span class="mso-font-fix-tahoma">
+
+</span><h2 style="font-family:Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 17px; color: #491276; font-weight: normal; line-height: 18px; mso-line-height: exactly; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><span style="font-size:12px;"><strong>Mentor</strong>: Nurudeen Agbonoga - Electrical Engineer</span></span></h2><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;"><span style="color:#491276;"><strong>Field Focus:</strong> Web Development / IOT</span></span></p><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;"><span style="color:#491276;"><strong>Objective: </strong>To design and create a web app for boosting productivity.&nbsp;This project will be programming in Python, HTML, CSS, and JavaScript.&nbsp; No coding experience is needed for this project.</span></span></p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td style="padding:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-top:2px solid #6d4191">
+<tr>
+
+<td>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#ffffff">
+<tr>
+<td align="center" width="100%">
+<!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+<table class="width600 main-container" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:18px;color:#131313;line-height:25px;text-align:left"></div>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:109.96969696969707px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="18.328282828282845%" class="col" style="background-color:#ffffff" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="109" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="109" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center" style="padding:3px"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1593666716294_MicroBlasterUV%20Cropped.png" width="103" height="103" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width103" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center">
+<!--[if !mso]><!-- -->
+<a href="https://forms.gle/SZBDR9tqxXU5M2PNA" target="_blank" style="display:inline-block; text-decoration:none;" >
+<span>
+
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#491276" style="border-radius:30px;border-collapse:separate !important;background-color:#491276">
+<tr>
+
+<td align="center" style="padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">
+<span style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:15px;mso-line-height:exactly;line-height:19px;mso-text-raise:2px;">
+<font style="color:#ffffff;" class="button">
+<span>Join</span>
+</font>
+</span>
+</td>
+</tr>
+</table>
+
+</span>
+</a>
+<!--<![endif]-->
+<div style="display:none; mso-hide: none;">
+
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#491276" style="border-radius:30px;border-collapse:separate !important;background-color:#491276">
+<tr>
+
+<td align="center" style="padding-top:2px;padding-right:12px;padding-bottom:2px;padding-left:12px">
+<a href="https://forms.gle/SZBDR9tqxXU5M2PNA" target="_blank" style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:15px;mso-line-height:exactly;line-height:19px;mso-text-raise:2px;text-decoration:none;text-align:center;">
+
+<span style="color:#ffffff !important;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:15px;mso-line-height:exactly;line-height:19px;mso-text-raise:2px;">
+<font style="color:#ffffff;" class="button">
+<span>Join</span>
+</font>
+</span>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:490.0303030303029px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="81.67171717171715%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:12px;padding-right:12px;padding-bottom:18px;padding-left:12px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:16px;color:#000000;line-height:18px;text-align:left"><h2 style="font-family:Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 17px; color: #491276; font-weight: normal; line-height: 18px; mso-line-height: exactly; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><span style="font-size:14px;"><strong>Project:</strong> Microblaster-UV</span></span></h2><span class="mso-font-fix-tahoma">
+
+</span><h2 style="font-family:Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 17px; color: #491276; font-weight: normal; line-height: 18px; mso-line-height: exactly; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><span style="font-size:12px;"><strong>Mentor</strong>: Vivian Nguyen / Geovanni Ruiz - Biologists</span></span></h2><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;"><span style="color:#491276;"><strong>Field Focus:</strong> Biomedical Engineering</span></span></p><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;"><span style="color:#491276;"><strong>Objective:&nbsp;</strong>Create an affordable, 3D-printed model of a device that will use UV light to sanitize face masks and face shields. Also, to teach students about concepts in biomedical engineering and microbiology.&nbsp;&nbsp;</span></span></p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#ffffff">
+<tr>
+<td align="center" width="100%">
+<!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+<table class="width600 main-container" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border:2px solid #4cb4e5;border-radius:30px;border-collapse:separate !important">
+<tr>
+
+<td valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:20px;color:#4cb4e5;line-height:25px;text-align:left"><p style="padding: 0; margin: 0;text-align: center;">Upcoming Calendar Events / Courses</p>
+</div>
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td style="padding:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-top:2px solid #4cb4e5">
+<tr>
+
+<td>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:105.02666666666669px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="17.62192393736018%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="105" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="105" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center" style="padding-left:5px"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1594244680269_Work_in_Progress-square.png" width="100" height="84" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width100" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:490.97333333333336px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="82.37807606263982%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-bottom:10px;padding-left:10px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:15px;color:#000000;line-height:18px;text-align:left"><h3 style="font-family:Garamond, Adobe Garamond Pro, Palatino, Times New Roman, serif; font-size: 18px; color: #4cb4e5; font-weight: normal; line-height: 26px; mso-line-height: exactly; mso-text-raise: 4px; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><strong>Work in Progress - </strong></span><span class="mso-font-fix-arial">Saturday 7/18 @ 10am</span></h3><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;">10:00am - Discussing a new electrical engineering project with Grace Zhang.</span></p><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;">10:30am- TSoG X-1 team to share a status on their project.&nbsp;</span></p><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;">11:00am - Roundtable meeting with&nbsp;all Technical Mentors</span></p><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;">11:45am&nbsp;- Tool Tutorial - Explaining new project management web functionality.&nbsp;</span></p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td style="padding:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-top:2px solid #4cb4e5">
+<tr>
+
+<td>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:106.28666666666668px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="17.833333333333336%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="106" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="106" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center" style="padding-left:5px"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1593666382979_1024px-Python-logo-notext.svg.png" width="101" height="101" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width101" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:489.7133333333333px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="82.16666666666666%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-bottom:10px;padding-left:10px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:15px;color:#000000;line-height:18px;text-align:left"><h3 style="font-family:Garamond, Adobe Garamond Pro, Palatino, Times New Roman, serif; font-size: 18px; color: #4cb4e5; font-weight: normal; line-height: 26px; mso-line-height: exactly; mso-text-raise: 4px; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><strong>Foundations in Python&nbsp;- </strong></span><span class="mso-font-fix-arial">Saturday 7/18 @ 1pm</span></h3><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size: 12px;">Any student new to&nbsp;Python Programming&nbsp;or wanting to review the basics, this session is for you! Dr. Foland leads&nbsp;a small group of students on Saturdays to work through programming fundamentals.&nbsp;</span></p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td style="padding:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-top:2px solid #4cb4e5">
+<tr>
+
+<td>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:107.97999999999996px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="18.117449664429525%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center"><!--[if gte mso 9]><table width="107" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="107" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1593666716294_MicroBlasterUV%20Cropped.png" width="107" height="107" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width107" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:488.0200000000001px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="81.88255033557049%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-bottom:10px;padding-left:10px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:15px;color:#000000;line-height:18px;text-align:left"><h3 style="font-family:Garamond, Adobe Garamond Pro, Palatino, Times New Roman, serif; font-size: 18px; color: #4cb4e5; font-weight: normal; line-height: 27px; mso-line-height: exactly; mso-text-raise: 4px; padding: 0; margin: 0;"><span class="mso-font-fix-arial"><strong>The Wonderful World of Microbes</strong></span><span class="mso-font-fix-arial"><strong> -&nbsp;</strong></span><span class="mso-font-fix-arial">Monday 7/20 @ 2pm</span></h3><span class="mso-font-fix-tahoma">
+
+</span><p style="padding: 0; margin: 0;"><span style="font-size:12px;">Vivian Nguyen is&nbsp;leading an informative (yet casual)&nbsp;lecture series about microbiology, bacteria, viruses, and relevant news about the pandemic. To take part in any discussions or ask questions, you&#39;ll need your headset ready to join on Discord.</span></p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" width="100%">
+<!--[if gte mso 9]><table width="600" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+<table class="width600 main-container" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:600px">
+<tr>
+<td width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="mcol">
+<tr>
+<td valign="top" style="padding:0;mso-cellspacing:0in;">
+<!--[if gte mso 9]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><![endif]-->
+<!--[if gte mso 9]><td valign="top" style="padding:0;width:109px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="18.166666666666668%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" align="center" style="padding:10px"><!--[if gte mso 9]><table width="61" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="61" style="max-width:100%" class="img-wrap">
+<tr>
+
+<td valign="top" align="center"><img src="https://images.chamaileon.io/5efd6659fb177cc629d5823c/5efd665afb177c7c6bd58246/1593667760606_tsog-color-square%20%281%29.png" width="61" height="61" alt="" border="0" style="display:block;font-size:14px;max-width:100%;height:auto;" class="width61" />
+</td>
+</tr>
+</table>
+
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]--><!--[if gte mso 9]><td valign="top" style="padding:0;width:490.99999999999983px;"><![endif]-->
+<table cellpadding="0" cellspacing="0" border="0" width="81.83333333333331%" class="col" align="left">
+<tr>
+<td valign="top" width="100%" style="padding:0;">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding:10px"><div style="font-family:Tahoma, Verdana, Segoe, sans-serif;font-size:13px;color:#000000;line-height:17px;text-align:left"><p style="padding: 0; margin: 0;text-align: center;">All events&nbsp;are listed in UTC -5. For the full schedule (including team meetings)&nbsp;displayed in your time zone, visit the <a href="https://www.tsogiants.org/wiki/Events_Calendar" target="_blank" style="color: #000000 !important; text-decoration: underline !important;"><font style=" color:#000000;">Calendar</font></a> page.&nbsp;Joining the TSoG community is free and open to parents and students 13+.&nbsp;Questions about how to get involved? Activate the chat feature on our website to connect instantly.&nbsp;</p><span class="mso-font-fix-tahoma">
+</span></div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td><![endif]-->
+<!--[if gte mso 9]></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+
+<td valign="top" style="padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px"><div style="font-family:arial;font-size:13px;color:#131313;line-height:13px;text-align:left"><p style="padding: 0; margin: 0;text-align: center;"><span style="font-size:11px;">Copyright &copy; 2020 The Shoulders of Giants all rights reserved.&nbsp;</span></p>
+
+<p style="padding: 0; margin: 0;text-align: center;"><span style="font-size:11px;">If these&nbsp;TSoG related messages aren&#39;t relevant to you anymore, feel free to <a href="https://www.tsogiants.org/api/unsubscribe?email_key={!Contact.TSoG_Email_Key__c}&unsubscribe_token={!Contact.TSoG_Unsubscribe_Token__c}" target="_blank" style="color: #00c0e7 !important; text-decoration: underline !important;"><font style=" color:#00c0e7;">unsubscribe</font></a></span></p>
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]></td></tr></table><![endif]-->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
